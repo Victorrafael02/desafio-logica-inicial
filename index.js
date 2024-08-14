@@ -1,4 +1,4 @@
-// Declarar a variavel de nome e expDoPersonagemeriencia do meu personagem
+// Declarar a variavel de nome e experiencia do meu personagem
 
 let nomeDoPersonagem = "Apollo"
 let xpDoPersonagem = 6984
